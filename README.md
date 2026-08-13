@@ -7,6 +7,7 @@ The application performs basic arithmetic operations through a simple menu-drive
 
 ✦ Features:-
 
+
 • Addition
 • Subtraction
 • Multiplication
@@ -33,6 +34,7 @@ The application performs basic arithmetic operations through a simple menu-drive
 ★ Project Objective:-
 
 To develop a functional Python calculator that performs basic arithmetic operations and handles invalid inputs properly.
+
 
 ◉ Internship:-
 
