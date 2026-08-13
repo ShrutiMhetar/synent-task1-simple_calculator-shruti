@@ -1,6 +1,6 @@
 #Simple Calculator
 
-▪ Project Description
+▪ Description
 
 This is a Python-based Simple Calculator developed as part of the Synent Technologies Python Development Internship.
 The application performs basic arithmetic operations through a simple menu-driven interface.
@@ -16,6 +16,7 @@ The application performs basic arithmetic operations through a simple menu-drive
 • Calculation history
 
 ◆ Technology Used
+
   Python
 
 ➤ How to Run
