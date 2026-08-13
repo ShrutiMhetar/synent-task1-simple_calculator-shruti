@@ -26,7 +26,7 @@ The application performs basic arithmetic operations through a simple menu-drive
 2. Open the project in VS Code.
 3. Run the following command:
 
- python Simple_Calculator.py
+   Simple_Calculator.py
 
 4. Select an operation from the menu.
 5. Enter the required numbers.
