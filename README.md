@@ -18,7 +18,7 @@ The application performs basic arithmetic operations through a simple menu-drive
 
 ◆ Technology Used:-
 
-    Python
+   - Python
 
 ➤ How to Run:-
 
